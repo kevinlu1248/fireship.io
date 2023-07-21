@@ -360,4 +360,4 @@ The service provides three Observables we can use in the HTML.
 
 ## The End
 
-Hopefully this gives you a decent jumpstart on pagination and infinite scroll in your Angular Firestore project. This service can be customized in many ways, so please reach out if you have any questions. 
+Hopefully this gives you a decent jumpstart on pagination and infinite scroll in your Angular Firestore project. This service can be customized in many ways, so please reach out if you have any questions.
