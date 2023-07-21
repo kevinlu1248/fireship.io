@@ -50,6 +50,4 @@ This course is intermediate level 🟦 and expects some familiarity with React.j
 
 ## How do I enroll?
 
-The first few videos are *free*, so just give it try. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
-
-
+The first few videos are *free*, so just give it try. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO.
