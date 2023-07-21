@@ -15,6 +15,11 @@ stack:
     - angular
     - firebase
     - ts
+
+Related Courses and Resources:
+  - [Angular](https://fireship.io/courses/angular)
+  - [Firebase](https://fireship.io/courses/firebase)
+  - [TypeScript](https://fireship.io/courses/typescript)
 ---
 
 
@@ -53,5 +58,4 @@ The last code review and update was completed on **Sep 2nd, 2022** using Angular
 
 ### 🏎️ Test Drive
 
-Visit the [Firestarter demo app](https://firestarter.fireship.io/) and install it as a PWA to give it a test drive before you enroll. 
-
+Visit the [Firestarter demo app](https://firestarter.fireship.io/) and install it as a PWA to give it a test drive before you enroll.

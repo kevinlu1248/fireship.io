@@ -8,6 +8,12 @@ tags:
     - firebase
     - pro
 
+Related Courses and Resources:
+  - [Ionic](https://fireship.io/courses/ionic)
+  - [Angular](https://fireship.io/courses/angular)
+  - [Firebase](https://fireship.io/courses/firebase)
+  - [Pro](https://fireship.io/pro)
+
 deprecated: true
 vimeo: 348641292
 lastmod: 2019-08-24T10:23:30-09:00
@@ -43,4 +49,4 @@ This course is an intermediate level project-based course where you *learn by do
 
 ### 🏎️ Test Drive
 
-A live version of the app is currently available as a [Progressive Web App](https://ionic4-fire.web.app/). 
+A live version of the app is currently available as a [Progressive Web App](https://ionic4-fire.web.app/).
