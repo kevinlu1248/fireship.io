@@ -310,6 +310,30 @@ Our final challenge is to make the navbar switch to a fixed bottom bar on smalle
 }
 ```
 
+## Making a Sticky Footer
+
+Sometimes, you might want to have a footer that sticks to the bottom of the page when there isn't enough content to fill the page. This can be achieved using CSS and flexbox layout. 
+
+First, make the body a flex container and set the direction to column:
+
+```css
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+```
+
+Then, add a CSS class to the footer that will push it to the bottom of the page:
+
+```css
+.sticky-footer {
+  margin-top: auto;
+}
+```
+
+This will make the footer stick to the bottom of the page when there isn't enough content to fill the page. If there is enough content to fill the page, the footer will naturally be pushed down off the screen.
+
 ## Go Further
 
-You may have noticed how the navbar can cycle through themes - learn how to [dynamically theme your website](/snippets/light-dark-mode-theme-css) with a little bit of JS. 
+You may have noticed how the navbar can cycle through themes - learn how to [dynamically theme your website](/snippets/light-dark-mode-theme-css) with a little bit of JS.
