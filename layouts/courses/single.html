@@ -14,13 +14,13 @@
 			<ul class="sticky top-0 h-screen overflow-auto scrollbar mr-4 pb-10 pr-4 min-w-[300px]" id="sidebar">
 				{{ range .Parent.Pages.ByWeight }}
 
-					<!-- Chapter -->
-					{{ if isset .Params "chapter_start" }}
-						<li class="flex py-2 mt-4 px-1 mr-5 border-b-2 border-gray6">
-							<i class="mr-2 not-italic">{{ .Params.emoji }}</i>
-							<h3 class="text-gray3">{{ .Params.chapter_start }}</h3>
-						</li>
-					{{ end}}
+     <!-- Chapter -->
+     {{ if isset .Params "chapter_start" }}
+     	<li class="flex py-2 mt-4 px-1 mr-5 border-b-2 border-gray6">
+     		<i class="mr-2 not-italic">{{ .Params.emoji }}</i>
+     		<h3 id="chapters" class="text-gray3">{{ .Params.chapter_start }}</h3>
+     	</li>
+     {{ end}}
 
 					<!-- Lesson tile -->
 					<li>
