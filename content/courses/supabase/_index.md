@@ -17,6 +17,11 @@ stack:
   - supabase
   - react
   - postgres
+
+Related Courses and Resources:
+  - [Supabase](https://fireship.io/courses/supabase)
+  - [React](https://fireship.io/courses/react)
+  - [Postgres](https://fireship.io/courses/postgres)
 ---
 
 **The Supabase Course** is a project-based course that builds a Reddit-inspired web app from scratch with Supabase, PostgreSQL, and React.
